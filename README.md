@@ -27,7 +27,7 @@ The following components will be installed into the VM:
 
 ## Installation and useage
 
-* copy a OSM PBF extract of your choice into this directory and rename it to +data.osm.pbf+
+* copy a OSM PBF http://download.geofabrik.de/ extract of your choice into this directory and rename it to +data.osm.pbf+
 
 * run "vagrant up"
 
